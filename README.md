@@ -1,3 +1,2 @@
 # calenderApp
-Todo list app using calendar.
-Use of core data.
+Todo list app using calendar and use of core data
